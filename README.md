@@ -26,7 +26,7 @@ Using Node and the Inquirer and Jest packages..
 
 ## Contributions
 
-Pulls welcome, but please email/message me before major changes to discuss..
+Pulls welcome, but please email/message me before major changes to discuss.
 
 ## Tests
 
