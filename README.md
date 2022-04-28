@@ -42,7 +42,7 @@ github.com/interrubble
 
 ## LinkedIn
 
-linkedin.com/christopher-delagarza-309550234
+https://www.linkedin.com/in/christopher-delagarza-309550234/
 
 ## Email
 
